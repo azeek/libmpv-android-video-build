@@ -59,7 +59,7 @@ HEREDOC
 [ ! -d fftools_ffi ] && git clone --depth 1 --branch main https://github.com/moffatman/fftools-ffi.git fftools_ffi
 
 # media-kit-android-helper
-[ ! -d media-kit-android-helper ] && git clone --depth 1 --branch main https://github.com/media-kit/media-kit-android-helper.git
+[ ! -d media-kit-android-helper ] && git clone --depth 1 --branch main https://github.com/reartem/media-kit-android-helper
 
 # media_kit
 [ ! -d media_kit ] && git clone --depth 1 --single-branch --branch main https://github.com/alexmercerind/media_kit.git
